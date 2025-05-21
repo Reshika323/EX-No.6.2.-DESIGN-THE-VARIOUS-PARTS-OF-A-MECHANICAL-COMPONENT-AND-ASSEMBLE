@@ -48,7 +48,7 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![image](https://user-images.githubusercontent.com/113594316/199641859-1ebade5e-7bb4-4047-aa4b-89ae1d934ba0.png)
 
 ## OUTPUT:
-![EDM 6 2_page-0001](https://github.com/user-attachments/assets/3c6ba1ea-765f-431e-b6b5-c2717658cea9)
+![EDM 6 2_page-0001 (1)](https://github.com/user-attachments/assets/4d0fd1a4-ef14-439b-87cd-a482ae8e4ad3)
 
 
 ## RESULT:
